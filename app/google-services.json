@@ -1,0 +1,277 @@
+{
+  "project_info": {
+    "project_number": "927089963728",
+    "firebase_url": "https://email-password-e75cf-default-rtdb.firebaseio.com",
+    "project_id": "email-password-e75cf",
+    "storage_bucket": "email-password-e75cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:efe3d4adc3cc42897864d5",
+        "android_client_info": {
+          "package_name": "kz.baymukach.a261023firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:dabfc82068c897197864d5",
+        "android_client_info": {
+          "package_name": "kz.baymukach.canvasappmini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:b614e45507885dcc7864d5",
+        "android_client_info": {
+          "package_name": "kz.baymukach.fragmenttask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:4154b6665673910b7864d5",
+        "android_client_info": {
+          "package_name": "kz.baymukach.myapplication301023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:c4bb6948c6f286057864d5",
+        "android_client_info": {
+          "package_name": "kz.baymukach.projectandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:78e7bab449210ef27864d5",
+        "android_client_info": {
+          "package_name": "kz.baymukach.test2912"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:42c037e155f9d5567864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.app1013"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:3013287d4950c17b7864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.app1014"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:d1af4c4e450a8d447864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.app1016"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:c6a0148da98972b87864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.app1017"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:27e7eed39c73be2a7864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.app1205"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:2b938af20ce202c87864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.product"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:13ab5cc6d036ab097864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927089963728:android:6da0a58f9011112e7864d5",
+        "android_client_info": {
+          "package_name": "kz.bekzat.quiz2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8iKiYhhMYce0-AvIUr49PS6Cq299g8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

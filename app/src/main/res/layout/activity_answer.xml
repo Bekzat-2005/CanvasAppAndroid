@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/taskTitleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Тапсырма"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginBottom="8dp"/>
+
+    <TextView
+        android:id="@+id/taskTitleText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Тапсырма"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:layout_marginBottom="8dp"/>
+
+    <EditText
+        android:id="@+id/answerInput"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Сіздің жауабыңыз"
+        android:minLines="4"
+        android:gravity="top"
+        android:background="@android:drawable/edit_text"/>
+
+    <Button
+        android:id="@+id/sendAnswerBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Жіберу"
+        android:layout_marginTop="12dp" />
+
+    <TextView
+        android:id="@+id/gradeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Баға: -"
+        android:textSize="16sp"
+        android:layout_marginTop="12dp"
+        android:visibility="gone" />
+</LinearLayout>
