@@ -15,34 +15,34 @@
         android:theme="@style/Theme.CanvasAppMini"
         tools:targetApi="31">
         <activity
-            android:name=".StudentTasksActivity"
+            android:name=".Student.StudentTasksActivity"
             android:exported="false" />
         <activity
-            android:name=".StudentCoursesActivity"
+            android:name=".Student.StudentCoursesActivity"
             android:exported="false" />
         <activity
-            android:name=".GradeStudentsActivity"
+            android:name=".Teacher.GradeStudentsActivity"
             android:exported="false" />
         <activity
-            android:name=".AnswerActivity"
+            android:name=".Answer.AnswerActivity"
             android:exported="false" />
         <activity
-            android:name=".ManageTasksActivity"
+            android:name=".Teacher.ManageTasksActivity"
             android:exported="false" />
         <activity
-            android:name=".TeacherCoursesActivity"
+            android:name=".Teacher.TeacherCoursesActivity"
             android:exported="false" />
         <activity
-            android:name=".CoursesFragment"
+            android:name=".Admin.CoursesFragment"
             android:exported="false" />
         <activity
-            android:name=".ManageCourseActivity"
+            android:name=".Admin.ManageCourseActivity"
             android:exported="false" />
         <activity
             android:name=".ManageUsersActivity"
             android:exported="false" />
         <activity
-            android:name=".CreateCourseActivity"
+            android:name=".Admin.CreateCourseActivity"
             android:exported="false" />
         <activity
             android:name=".TeacherPortalActivity"
@@ -51,7 +51,7 @@
             android:name=".StudentPortalActivity"
             android:exported="false" />
         <activity
-            android:name=".AdminPanelActivity"
+            android:name=".Admin.AdminPanelActivity"
             android:exported="false" />
         <activity
             android:name=".RegisterActivity"

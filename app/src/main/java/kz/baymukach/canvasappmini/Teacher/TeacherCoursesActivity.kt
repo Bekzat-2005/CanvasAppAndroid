@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Teacher
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,9 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
+import kz.baymukach.canvasappmini.Admin.CoursesAdapter
+import kz.baymukach.canvasappmini.Course
+import kz.baymukach.canvasappmini.R
 
 class TeacherCoursesActivity : AppCompatActivity() {
 

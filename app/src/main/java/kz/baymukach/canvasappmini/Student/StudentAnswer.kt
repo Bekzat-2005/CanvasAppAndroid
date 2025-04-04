@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Student
 
 data class StudentAnswer(
     var studentId: String = "",

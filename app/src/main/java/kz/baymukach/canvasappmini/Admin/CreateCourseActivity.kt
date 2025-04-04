@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Admin
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,6 +7,7 @@ import android.widget.EditText
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
+import kz.baymukach.canvasappmini.R
 
 class CreateCourseActivity : AppCompatActivity() {
 

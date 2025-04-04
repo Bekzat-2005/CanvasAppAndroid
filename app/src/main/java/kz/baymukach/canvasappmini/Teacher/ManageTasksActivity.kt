@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Teacher
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,6 +8,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.Timestamp
 import com.google.firebase.firestore.FirebaseFirestore
+import kz.baymukach.canvasappmini.R
+import kz.baymukach.canvasappmini.Task
 
 class ManageTasksActivity : AppCompatActivity() {
 

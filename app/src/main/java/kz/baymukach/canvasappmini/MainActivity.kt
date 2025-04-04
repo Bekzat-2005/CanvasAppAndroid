@@ -7,6 +7,9 @@ import android.widget.Button
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
+import kz.baymukach.canvasappmini.Admin.AdminPanelActivity
+import kz.baymukach.canvasappmini.Teacher.TeacherCoursesActivity
+import kz.baymukach.canvasappmini.Student.StudentCoursesActivity
 
 class MainActivity : AppCompatActivity() {
 

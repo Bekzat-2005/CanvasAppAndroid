@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Answer
 
 import android.view.LayoutInflater
 import android.view.View
@@ -7,6 +7,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import kz.baymukach.canvasappmini.R
+import kz.baymukach.canvasappmini.Student.StudentAnswer
 
 class AnswersAdapter(
     private val answers: List<StudentAnswer>,

@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Teacher
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,6 +6,8 @@ import android.view.ViewGroup
 import android.widget.Button
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import kz.baymukach.canvasappmini.R
+import kz.baymukach.canvasappmini.Task
 
 class TasksAdapter(
     private val tasks: List<Task>,
@@ -18,6 +20,7 @@ class TasksAdapter(
         val viewAnswersBtn: Button = itemView.findViewById(R.id.viewAnswersBtn)
     }
 
+    // 2. ViewHolder-ді жасау — layout inflate
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TaskViewHolder {
         val view = LayoutInflater.from(parent.context).inflate(R.layout.item_task, parent, false)
         return TaskViewHolder(view)

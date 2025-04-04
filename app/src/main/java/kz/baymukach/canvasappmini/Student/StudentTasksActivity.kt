@@ -1,4 +1,4 @@
-package kz.baymukach.canvasappmini
+package kz.baymukach.canvasappmini.Student
 
 import android.content.Intent
 import android.os.Bundle
@@ -7,6 +7,10 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.google.firebase.firestore.FirebaseFirestore
+import kz.baymukach.canvasappmini.Answer.AnswerActivity
+import kz.baymukach.canvasappmini.R
+import kz.baymukach.canvasappmini.Task
+import kz.baymukach.canvasappmini.Teacher.TasksAdapter
 
 class StudentTasksActivity : AppCompatActivity() {
 
